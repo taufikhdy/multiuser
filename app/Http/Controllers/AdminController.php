@@ -16,7 +16,7 @@ class AdminController extends Controller
     {
         return view('home');
 
-    } function keuangan()
+    } function koordinator()
     {
         return view('home');
     }
